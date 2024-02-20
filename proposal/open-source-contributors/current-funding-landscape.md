@@ -1,16 +1,16 @@
 ---
 description: >-
-  A broad overview about the current landscape of disbursement processes across
-  Web3 and how this compares to existing large companies
+  A broad overview about the current landscape of funding processes across Web3
+  and how these compares with large tech companies
 ---
 
-# Current disbursement landscape
+# Current funding landscape
 
 Many Web3 ecosystems have their own treasury which is used to help fund initiatives that generate impact for the ecosystem.
 
 <figure><img src="../../.gitbook/assets/web3-treasury-current-landscape.png" alt=""><figcaption></figcaption></figure>
 
-The founding entities in each Web3 ecosystem are often mostly responsible for the ongoing maintenance and development of the network itself. Moving above this responsibility the most common process for disbursement is idea based funding. This can often comes in the form of request for proposals (RFPs) that are suggested by the founding entities or in the form of an open proposal process where community members can suggest ideas for approval. For the open proposal process the deciding voters are often a founding entity that look after the treasury or they are the wider community if coin based voting is being used and governance decisions have started to move on-chain.
+The founding entities in each Web3 ecosystem are often mostly responsible for the ongoing maintenance and development of the network itself. Moving above this responsibility the most common process for funding is idea based funding. This can often comes in the form of request for proposals (RFPs) that are suggested by the founding entities or in the form of an open proposal process where community members can suggest ideas for approval. For the open proposal process the deciding voters are often a founding entity that look after the treasury or they are the wider community if coin based voting is being used and governance decisions have started to move on-chain.
 
 Web3 ecosystem idea based funding is often targeted at building new protocols, software libraries and applications in the ecosystem as well as supporting ecosystem initiatives that help with maintaining and growing the ecosystem. Some ecosystems invite ideas that help with network & infrastructure development which could compete or compliment the founding entities efforts. Some ecosystems invite proposals that focus on global and location based public goods, however these initiatives might not be relevant or focussed on improving and growing the ecosystem itself.
 
@@ -28,7 +28,7 @@ The most common proposal format for idea funding is where proposers document the
 
 **Problems for contributors**
 
-Idea based disbursement processes can cause a number of problems for contributors.
+Idea based funding processes can cause a number of problems for contributors.
 
 * **High participation time required** - Contributors need to create ideas to be considered for funding which means a certain amount of upfront work is needed every time a contributor is looking to receive more income. Contributors need to handle the ongoing burden of proposal writing and promotion of their ideas.
 * **Proposal submission complexity** - Ideas and contributors are often combined into a single proposal. Sometimes even the priority they are addressing is included in the proposal as well. This submission structure increases the complexity for contributors to participate as now a lot of contribution effort is needed around the priority, idea and contributors involved as they need to be documented upfront so they can make a submission and be considered by the voters.
@@ -42,20 +42,20 @@ Idea based disbursement processes can cause a number of problems for contributor
 
 **Problems for voters**
 
-Idea based disbursement processes can also cause a number of problems for voters. Voters could be the foundation who decides which ideas get funding or it could be the community using coin based voting.
+Idea based funding processes can also cause a number of problems for voters. Voters could be the foundation who decides which ideas get funding or it could be the community using coin based voting.
 
 * **High voter participation time required** - Voters need to review and understand many ideas to make an informed decision on which ideas are the most promising to generate impact for the ecosystem. Each idea could have a large amount of information that needs to be considered such as the skills involved, the outcomes and impact it could generate and the budget and feasibility of the idea. Even for voters that have relevant skills and background experience this task is very difficult to scale to a wide audience due to the time it would take to understand the depth of information provided.
 * **High voter decision complexity** - Comparing and selecting ideas required a lot of context about what is happening inside and outside the ecosystem and the trade offs between the different suggested ideas and how they could impact the ecosystem. It is often difficult to predict how successful an idea could be ahead of time. Pushing this complexity towards the voters makes it difficult for them to feasibly participate if they don’t have the right skills, experience or understanding of the ecosystem. This complexity is further increased when the voter needs to understand whether an idea has been fairly budgeted or not as only a handful of voters might have the relevant skills and experience to fully assess what is actually fair and reasonable.
-* **Low voter expressiveness** - If a voter agrees with an ideas but believes the contributors are not suitable for execution they might not be able to express this opinion with many of the current disbursement processes. This issue exists when ideas are tightly attached to contributors in the same proposal. If these parts were separated the voter could give their feedback and preferences about an idea without the commitment of selecting someone to execute that idea.
-* **Low voter accountability** - Voters are not highly paid for their participation in Web3 disbursement decisions. They are also often free to move to other ecosystems and can sell their existing assets within a relatively small time frame. Voters have low levels of responsibility and accountability of ensuring the ecosystem is successful through good disbursement decisions. Low accountability makes it more difficult to push the entire responsibility of selecting ideas that get funding to a large community of voters due to the lack of incentive and high levels of complexity that each of those voters needs to handle.
+* **Low voter expressiveness** - If a voter agrees with an ideas but believes the contributors are not suitable for execution they might not be able to express this opinion with many of the current funding processes. This issue exists when ideas are tightly attached to contributors in the same proposal. If these parts were separated the voter could give their feedback and preferences about an idea without the commitment of selecting someone to execute that idea.
+* **Low voter accountability** - Voters are not highly paid for their participation in Web3 funding decisions. They are also often free to move to other ecosystems and can sell their existing assets within a relatively small time frame. Voters have low levels of responsibility and accountability of ensuring the ecosystem is successful through good funding decisions. Low accountability makes it more difficult to push the entire responsibility of selecting ideas that get funding to a large community of voters due to the lack of incentive and high levels of complexity that each of those voters needs to handle.
 
 
 
 **Problems for Web3 ecosystems**
 
-A number of disbursement problems currently exist across many Web3 ecosystems.
+A number of funding problems currently exist across many Web3 ecosystems.
 
-* **Ephemeral ideas** - Ideas are often treated as ephemeral yes or no disbursement decisions. This can prevent collaborative efforts and suggested improvements to these previously shared ideas over time. Ecosystems could benefit from having a persistent way to suggest and share ideas that allows them to evolve over time through feedback and community engagement. The importance of ideas can increase and decrease over time as the ecosystem evolves which further increases the need for ideas to be persistent. An ecosystems focus and attention needs to respond to changing environments and the changing needs of the community.
+* **Ephemeral ideas** - Ideas are often treated as ephemeral yes or no funding decisions. This can prevent collaborative efforts and suggested improvements to these previously shared ideas over time. Ecosystems could benefit from having a persistent way to suggest and share ideas that allows them to evolve over time through feedback and community engagement. The importance of ideas can increase and decrease over time as the ecosystem evolves which further increases the need for ideas to be persistent. An ecosystems focus and attention needs to respond to changing environments and the changing needs of the community.
 * **Missed innovation opportunities** - Another risk for idea funding is that voters could be more likely to select ideas that are most relevant or interesting to them. Pushing the responsibility of idea selection towards a large group of voters can lead to issues around groupthink and proposers trying to create ideas that appeal to the interests of the voters rather than what might actually be the most impactful idea for the ecosystem. Not all ideas will be obvious to enough voters on why they can generate large amounts of impact. Leaving the selection of ideas to a large community could result in many ideas being rejected or ignored that are less understood or well known but could have been highly impactful if executed.
 * **Inefficient treasury asset usage** - A single contributor has a limited amount of capacity to execute different ideas. If a contributor is funded for multiple ideas or for one large idea there is the issue that they might be allocated a large amount of compensation which sits idle whilst they slowly execute their idea or multiple ideas. This can mean a percentage of funding that has been allocated is deadweight to the ecosystem for a period of time. Stagnant treasury assets that are not being fully utilised can reduce the speed of development of impactful ideas. Distributing incentives directly to individuals when they are providing evidence of contribution is one way that this issue can be prevented. Any funding that is released would only be released when contribution efforts are being made. Certain ideas being over funded can also help exacerbate the issue of certain contributors not being able to secure stable income. A lack of income stability increases the risk that these contributors look for better options elsewhere to better support themselves.
 * **Lack of prioritisation systems** - Most Web3 ecosystems currently lack prioritisation systems that enable their community to express what different problems and opportunities exist that can then be discussed and voted on to see what the communities current sentiment is about different ecosystem areas. Currently the most adopted ways this is achieved currently is usually through forums, chat channels and on X (formerly Twitter). This lack of prioritisation process means voters are often just responding to what is put in front of them with ideas people suggest rather than having any effective approach to consider what other areas the community might actually prefer to prioritise. A good prioritisation system could help with identifying and selecting the most promising areas the community could work on. More clarity about what the community values can help to inspire more ideas that help to address those problems and opportunities that the wider community most values.
@@ -107,7 +107,7 @@ The following are some example common reasons why people leave large companies. 
 
 
 
-**Large tech companies compared with current Web3 disbursement landscape**
+**Large tech companies compared with current Web3 funding landscape**
 
 * **Less complexity to contribute** - A candidate employee would just need to submit their personal and professional information, usually in the form of a CV, to be considered. In Web3 ecosystems contributors need to define and suggest ideas ahead of time which takes a large amount of upfront work.
 * **Higher income stability** - In companies once an employees is hired they will be compensated until they leave. In Web3 ecosystems a contributor has to continuously write and submit idea based proposals to receive future funding. Funding can be distributed far more unevenly in Web3 ecosystems using idea based funding which means many contributors could also have high income instability where they receive little to no compensation for periods of time.

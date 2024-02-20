@@ -1,15 +1,14 @@
 ---
 description: >-
-  Outlining what an open source contributor disbursement process entails and how
-  this approach could be beneficial to the contributors, voters and Web3
-  ecosystems
+  Outlining what an open source contributor funding process entails and how this
+  approach could be beneficial to the contributors, voters and Web3 ecosystems
 ---
 
-# Open source contributor disbursement process
+# Open source contributor funding
 
 <figure><img src="../../.gitbook/assets/web3-open-source-contributors-experiment.png" alt=""><figcaption></figcaption></figure>
 
-There is an opportunity for Web3 ecosystems to experiment with a open source contributors disbursement process. Ecosystem contributors would be selected and compensated to work on open source initiatives. The key parts for this suggested process include:
+There is an opportunity for Web3 ecosystems to experiment with a open source contributors funding process. Ecosystem contributors would be selected and compensated to work on open source initiatives. The key parts for this suggested process include:
 
 * **Contributor information** - Open source developers would be able to submit their personal and professional information along with any of their contribution history information so they can then be considered as a contributor candidate.
 * **Voting** - The voters would either be a founding entity or the wider community depending on the ecosystems preferences and what voting systems are available.

@@ -5,8 +5,8 @@
 ## Proposal
 
 * [Open source contributors](proposal/open-source-contributors/README.md)
-  * [Current disbursement landscape](proposal/open-source-contributors/current-disbursement-landscape.md)
-  * [Open source contributor disbursement process](proposal/open-source-contributors/open-source-contributor-disbursement-process.md)
+  * [Current funding landscape](proposal/open-source-contributors/current-funding-landscape.md)
+  * [Open source contributor funding](proposal/open-source-contributors/open-source-contributor-funding.md)
   * [Suggested experiment](proposal/open-source-contributors/suggested-experiment.md)
 
 ## 🙋 Contributors
