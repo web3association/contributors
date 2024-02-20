@@ -1,7 +1,7 @@
 ---
 description: >-
   A broad overview about the current landscape of disbursement processes across
-  Web3 and how this compares to existing corporations
+  Web3 and how this compares to existing large companies
 ---
 
 # Current disbursement landscape
@@ -62,37 +62,38 @@ A number of disbursement problems currently exist across many Web3 ecosystems.
 
 
 
-## Learnings from existing tech corporations
+## Learnings from existing large tech companies
 
 
 
 **Web3 ecosystem overlapping areas**
 
-Large tech corporations can provide a number of useful learnings about growing a large ecosystem that has many full time contributors. Corporations share a number of overlapping areas with Web3 ecosystems:
+Large tech companies can provide a number of useful learnings about growing a large ecosystem that has many full time contributors. Larger companies can share a number of overlapping areas with Web3 ecosystems:
 
-* **Number of contributors involved** - Tech corporations such as Apple, Microsoft, Amazon, Alphabet and Meta have scaled to handle a vast number of contributors that work on different products and services within each of their ecosystems.
-* **Problem scale** - Large tech corporations often tackle important global problems. Their products and services can often become important parts of peoples day to day lives.
+* **Number of contributors involved** - Tech companies such as Apple, Microsoft, Amazon, Alphabet and Meta have scaled to handle a vast number of contributors that work on different products and services within each of their ecosystems.
+* **Skill sets** - Both large tech companies and Web3 ecosystems rely heavily on competent software developers to build high quality and scalable solutions that can scale to the masses. Product, design, research and analysis are some other skill sets that both these ecosystems will highly benefit from.
+* **Problem scale** - Large tech companies often tackle important global problems. Their products and services can often become important parts of peoples day to day lives.
 * **Execution complexity** - Larger tech companies are able to work on highly complex topic areas such as AI, augmented reality and virtual reality. These new technologies can require large investments and longer time horizons to make highly impactful products and services.
-* **Shared internal solutions** - A number of shared problems between teams often emerge within these organisations that lead to the development of internal tooling and solutions that can benefit the entire organisation. These solutions could be adopted by any team working on different products or services. A good example of this is React or GraphQL which was developed internally and used across Meta before then being released publicly as open source software.
+* **Shared execution problems** - A number of shared execution problems can exist between teams within these organisations. These problems can lead to collaborative development efforts to create internal tooling and solutions that can benefit the entire organisation. These shared solutions can be adopted by any team working on any product or service. A good example of these types of solutions for shared problems could be React or GraphQL which was developed internally inside Meta and used across the organisation before these solutions were then released publicly as open source software.
 
 
 
-**Corporation working environment**
+**Large company working environment**
 
-Other useful learnings that can be taken from existing tech corporations are the environments they have created that can help their contributors focus and thrive whilst they work on important problems. Some of these environmental approaches include:
+Other useful learnings that can be taken from existing tech companies are the environments they have created that can help their contributors focus and thrive whilst they work on important problems. Some of these environmental approaches include:
 
-* **Time based incentives** - Contributors are paid for their time using an agreed salary. Contributors do not need to be concerned with where and how they are getting paid and instead can focus their entire attention on their work whilst contributing in a corporation.
-* **Bonus incentives** - Large corporations often offer performance and impact based incentives in the form of stock option grants, bonuses and job promotions. Work place incentives can also exist which can further help with simplifying and improving the lives of employees.
-* **Idea contribution flexibility** - Employees are able to move across teams and help make impactful contributions where they are most needed. Some corporations are more flexible than others in terms of letting people change teams. Employees do not need to be concerned with how they are going to be paid when they work across multiple teams and help with different initiatives.
-* **Collaborative environment** - Teams working on different projects and services can freely collaborate with any other team in the corporation. These employees all work in the same corporation so ultimately they are on the same team! The incentives are fully aligned for employees to collaborate on any problems or opportunities that could be mutually beneficial to address.
+* **Time based incentives** - Contributors are paid for their time using an agreed salary. Contributors do not need to be concerned with where and how they are getting paid and instead can focus their entire attention on their work whilst contributing in a company.
+* **Bonus incentives** - Large companies often offer performance and impact based incentives in the form of stock option grants, bonuses and job promotions. Work place incentives can also exist which can further help with simplifying and improving the lives of employees.
+* **Contribution flexibility** - Employees are able to move across teams and help make impactful contributions where they are most needed. Some companies are more flexible than others in terms of letting people change teams. Employees do not need to be concerned with how they are going to be paid when they work across multiple teams and help with multiple initiatives.
+* **Collaborative environment** - Teams working on different projects and services can freely collaborate with any other team in the company. These employees all work in the same company so ultimately they are on the same team! The incentives are fully aligned for employees to collaborate on any problems or opportunities that could be mutually beneficial to address.
 * **Quickly changing ideas** - Teams working on different products & services can sometimes autonomously plan their own roadmap and delivery of new features and improvements. This enables them to experiment and trial new ideas quickly as different opportunities emerge without needing approval from the wider company and surrounding teams.
-* **Starting & stopping the execution of ideas** - Teams are able to start and stop working on different ideas whenever it makes sense to do so. Some ideas won’t generate the intended outcomes and in that event a team could stop working on it as soon as this becomes more obvious. If a team moves from one idea to another this won’t change or impact their incentives. Each employee and team are ultimately responsible for making as much impact for the corporation as possible.
+* **Pausing idea execution** - Teams are able to start and stop working on different ideas whenever it makes sense to do so. Some ideas won’t generate the intended outcomes and in that event a team could stop working on it as soon as this becomes more obvious. If a team moves from one idea to another this won’t change or impact their incentives. Each employee and team are ultimately responsible for making as much impact for the company as possible.
 
 
 
-**Common reasons people leave corporations**
+**Common reasons people leave large tech companies**
 
-Listing some common reasons why people leave corporate environments can help with identifying which disbursement approaches might help with resolving or reducing these issues.
+The following are some example common reasons why people leave large companies. This can help with identifying which disbursement approaches might help with resolving or reducing these issues.
 
 * **Better work-life balance** - Looking for opportunities that have better work-life balance.
 * **Looking for more meaningful work** - Current responsibilities or working environment is uninspiring.
@@ -100,17 +101,16 @@ Listing some common reasons why people leave corporate environments can help wit
 * **Lack of career advancement** - A lack of opportunities to grow and learn.
 * **Burnout** - A need for recovery due to over working.
 * **Management & leadership issues** - Conflict or disagreement with people that have authority.
-* **Compensation & benefits** - Compensation and benefits have not met expectations.
 * **Entrepreneurial aspirations** - Trying to start a new business themselves.
 * **Relocation -** Wanting to live and work in another location.
 * **Changing work interests** - Looking to try something new or more challenging.
 
 
 
-**Corporation comparison with current Web3 disbursement landscape**
+**Large tech companies compared with current Web3 disbursement landscape**
 
-* **Less complexity to contribute** - In a corporation an employees just needs to submit their personal and professional information, usually in the form of a CV, to be considered. In Web3 ecosystems contributors need to define and suggest ideas ahead of time which takes a large amount of upfront work.
-* **Higher income stability** - In corporations once an employees is hired they will be compensated until they leave. In Web3 ecosystems a contributor has to continuously write and submit idea based proposals to receive future funding. Funding can be distributed far more unevenly in Web3 ecosystems using idea based funding which means many contributors could also have high income instability where they receive little to no compensation for periods of time.
-* **Higher contribution flexibility** - Employees that join a corporation are often able to work on different ideas and teams whilst they work in the organisation. The team an employee is working on could completely change the idea they are working on if they had good reason to do so to address a completely different problem or opportunity. In Web3 ecosystems if every idea is funded separately there is a higher complexity to move to different ideas unless there is enough funding available and a separate agreement is made. As well as this there is more complexity when a token has been created as now the contributors are responsible for maintaining and growing the ecosystem that this token is used for. This can prevent contributors from being able to move as easily between ideas even when they might be able to generate a lot of impact in numerous areas.
-* **Easier collaboration** - In corporations employees are paid for their contribution efforts each month rather than for the ideas that they suggest or that get executed. This means it doesn’t matter which idea an employee is working as long as the outcomes generate impact for the corporation. Collectively these employees are all working on the same team which enables teams to more easily identify intersecting problems and opportunities that they could work on collaboratively. Software libraries created in Meta such as React and GraphQL are good examples of this. In Web3 ecosystems collaboration is more complex when funding is allocated through ideas as now if one team executes these intersecting ideas and doesn’t complete their own funded idea they risk not being funded in the future. Contributors have to compete against each other constantly to receive funding which doesn’t fully align the incentives to collaborate on allocating extra time to build out mutually beneficial solutions.
-* **Less complexity for decision makers** - Corporations focus on identifying, attracting and retaining the highest quality people to work in their organisation. The complexity for corporations is comparing and selecting the best contributors. In Web3 ecosystems this complexity is often far higher as ideas are being compared instead of contributors which means a lot more information and complexity is introduced. Many of the voters will struggle to have the right level of experience and context about many of these ideas to make well informed decisions. Web3 ecosystems that want to fully decentralise this idea selection approach will be pushing this massive complexity to the wider community.
+* **Less complexity to contribute** - A candidate employee would just need to submit their personal and professional information, usually in the form of a CV, to be considered. In Web3 ecosystems contributors need to define and suggest ideas ahead of time which takes a large amount of upfront work.
+* **Higher income stability** - In companies once an employees is hired they will be compensated until they leave. In Web3 ecosystems a contributor has to continuously write and submit idea based proposals to receive future funding. Funding can be distributed far more unevenly in Web3 ecosystems using idea based funding which means many contributors could also have high income instability where they receive little to no compensation for periods of time.
+* **Higher contribution flexibility** - Employees that join a company are often able to work on different ideas and teams whilst they work in the organisation. The team an employee is working on could completely change the idea they are working on if they had good reason to do so to address a completely different problem or opportunity. In Web3 ecosystems if every idea is funded separately there is a higher complexity to move to different ideas unless there is enough funding available and a separate agreement is made. As well as this there is more complexity when a token has been created as now the contributors are responsible for maintaining and growing the ecosystem that this token is used for. This can prevent contributors from being able to move as easily between ideas even when they might be able to generate a lot of impact in numerous areas.
+* **Easier collaboration** - In companies employees are paid for their contribution efforts each month rather than for the ideas that they suggest or that get executed. This means it doesn’t matter which idea an employee is working as long as the outcomes generate impact for the company. Collectively these employees are all working on the same team which enables teams to more easily identify intersecting problems and opportunities that they could work on collaboratively. Software libraries created in Meta such as React and GraphQL are good examples of this. In Web3 ecosystems collaboration is more complex when funding is allocated through ideas as now if one team executes these intersecting ideas and doesn’t complete their own funded idea they risk not being funded in the future. Contributors have to compete against each other constantly to receive funding which doesn’t fully align the incentives to collaborate on allocating extra time to build out mutually beneficial solutions.
+* **Less complexity for decision makers** - Companies focus on identifying, attracting and retaining the highest quality people to work in their organisation. The complexity for companies is comparing and selecting the best contributors. In Web3 ecosystems this complexity is often far higher as ideas are being compared instead of contributors which means a lot more information and complexity is introduced. Many of the voters will struggle to have the right level of experience and context about many of these ideas to make well informed decisions. Web3 ecosystems that want to fully decentralise this idea selection approach will be pushing this massive complexity to the wider community.

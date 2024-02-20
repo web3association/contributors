@@ -76,20 +76,19 @@ Funding that is focused on selecting skilled individuals to help with open sourc
 
 
 
-**Inherits the best parts of working for existing corporations**
+**Inherits the best parts of working for existing large tech companies**
 
-Most or all of the best parts of working in the corporate environment for employees can be achieved with an open source contributor disbursement process. The simplicity of time based incentives and the importance of contribution flexibility and a collaborative environment are achieved with an open source contributor disbursement process. Ideas can change quickly and execution efforts can easily start and stop at anytime. The advantages of the open source disbursement process is that it pushes beyond the advantages of working in corporations and gives the contributors even more autonomy on how they decide to provide value and generate impact for the ecosystem. The contributor is their own boss and has full control over building their own reputation. Contributors would be able to work wherever and whenever they want as long as they generate impact for the ecosystem. Contributor based funding can give people very high levels of flexibility, reputation ownership and autonomy.
+Most or all of the best parts of working in large tech company environment for employees can be achieved with an open source contributor disbursement process. The simplicity of time based incentives and the importance of contribution flexibility and a collaborative environment would be a key part of this suggested process. The added advantages of an open source disbursement process over existing working arrangements in tech companies is that can push beyond the advantages of working in large tech companies and gives the contributors even more autonomy on how they decide to generate impact for the ecosystem. The contributor would ultimately be their own boss and have full ownership and responsibility over building their own reputation. Contributors would be able to work wherever and whenever they want as long as they generate impact for the ecosystem. Contributor focused funding could give people high levels of flexibility, reputation ownership and autonomy.
 
 
 
-**Helps to reduce or resolve the common issues of why people leave corporations**
+**Helps to reduce or resolve the common issues of why people leave large tech companies**
 
 * **Better work-life balance & burnout** - Incentives can help to encourage and reward contributors that work harder than others in the ecosystem but the actual choice of how much time a contributor is willing to use from their daily lives is fully up to them.
 * **Relocation** - A contributor working for an online Web3 ecosystem can work anywhere in the world they want, relocation should never be an issue!
 * **Lack of career advancement & changing work interests** - A contributor self determines what they work on based on their own interests and based on what has the most meaning to them.
 * **Meaningful work, personal values misalignment & entrepreneurial aspirations** - The outcomes that a contributor generates will be open source and publicly available. Their work could be used by an entire ecosystem and could even make impact more globally.
 * **Management & leadership issues** - No fixed management or leadership roles will exist in Web3 ecosystems under this approach, meaning no one will be pushing contributors to work over time and beyond their means. If a contributor didn’t enjoy working with another contributor they would be able to move to other initiatives when it makes sense for them to do so.
-* **Compensation & benefits** - As Web3 ecosystems grow there will be an increasing amount of opportunity for contributors to be paid a larger amount of compensation as well as impact or performance based incentives.
 
 
 
@@ -173,13 +172,13 @@ An area worth ongoing development is the measuring of impact that each contribut
 
 **Defining the future of work**
 
-An open source contributors process could be seen as an evolution of the existing employment model seen across existing corporations. Open source contributors inherit many of the benefits of those previous working arrangements but then go further than this by giving contributors more flexibility, autonomy and self ownership of their reputation. Contributors would be their own boss and decide on who they work with and and what work on. A good contributors disbursement process could also mean contributors are more freely able to move around ecosystems based on a provable reputation and be paid what they’re worth based on their contribution history, performance and impact.
+An open source contributors process could be seen as an evolution of the existing employment model seen across existing companies. Open source contributors inherit many of the benefits of those previous working arrangements but then go further than this by giving contributors more flexibility, autonomy and self ownership of their reputation. Contributors would be their own boss and decide on who they work with and and what work on. A good contributors disbursement process could also mean contributors are more freely able to move around ecosystems based on a provable reputation and be paid what they’re worth based on their contribution history, performance and impact.
 
 
 
 **Fixing open source funding**
 
-Open source funding has been an ongoing problem for decades where many open source libraries have become vital parts of infrastructure that are used across many large corporations and widely used systems. Getting enough funding to pay for the contribution efforts that are made to these software solutions has been an ongoing problem and challenge for open source developers. Web3 ecosystems have an opportunity to fix open source funding through funding contributors directly to work on open source initiatives. Contributors can be paid on an ongoing basis and achieve similar or higher levels of compensation than comparative roles in existing corporations.
+Open source funding has been an ongoing problem for decades where many open source libraries have become vital parts of infrastructure that are used across many large companies and widely used systems. Getting enough funding to pay for the contribution efforts that are made to these software solutions has been an ongoing problem and challenge for open source developers. Web3 ecosystems have an opportunity to fix open source funding through funding contributors directly to work on open source initiatives. Contributors can be paid on an ongoing basis and achieve similar or higher levels of compensation than comparative roles in existing companies.
 
 
 
@@ -191,6 +190,6 @@ The founding entities eventually want to give up the control and development of 
 
 **Contributor funding could become the most adopted Web3 disbursement process**
 
-A contributor disbursement process offers a simple approach for attracting and retaining high quality contributors in a Web3 ecosystem. This approach of paying contributors for their time is not novel and is already proven its effectiveness in existing corporate structures. Web3 ecosystems have the opportunity to improve upon this model further and create highly impactful disbursement processes that can help to support and grow Web3 ecosystems.
+A contributor disbursement process offers a simple approach for attracting and retaining high quality contributors in a Web3 ecosystem. This approach of paying contributors for their time is not novel and is already proven its effectiveness in existing company structures. Web3 ecosystems have the opportunity to improve upon this model further and create highly some impactful disbursement processes that are effective at supporting and growing Web3 ecosystems.
 
 <figure><img src="../../.gitbook/assets/web3-treasury-disbursement-opportunity.png" alt=""><figcaption></figcaption></figure>
