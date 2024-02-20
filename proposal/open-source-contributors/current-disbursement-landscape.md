@@ -72,7 +72,7 @@ Large tech corporations can provide a number of useful learnings about growing a
 
 * **Number of contributors involved** - Tech corporations such as Apple, Microsoft, Amazon, Alphabet and Meta have scaled to handle a vast number of contributors that work on different products and services within each of their ecosystems.
 * **Problem scale** - Large tech corporations often tackle important global problems. Their products and services can often become important parts of peoples day to day lives.
-* **Complexity** - Larger tech companies are able to work on highly complex topic areas such as AI, augmented reality and virtual reality. These new technologies can require large investments and longer time horizons to make highly impactful products and services.
+* **Execution complexity** - Larger tech companies are able to work on highly complex topic areas such as AI, augmented reality and virtual reality. These new technologies can require large investments and longer time horizons to make highly impactful products and services.
 * **Shared internal solutions** - A number of shared problems between teams often emerge within these organisations that lead to the development of internal tooling and solutions that can benefit the entire organisation. These solutions could be adopted by any team working on different products or services. A good example of this is React or GraphQL which was developed internally and used across Meta before then being released publicly as open source software.
 
 
