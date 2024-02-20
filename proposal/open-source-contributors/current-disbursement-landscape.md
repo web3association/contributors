@@ -6,13 +6,23 @@ description: >-
 
 # Current disbursement landscape
 
-Many Web3 ecosystems have their own treasury that they use to fund initiatives that can generate impact for their ecosystem.
+Many Web3 ecosystems have their own treasury which is used to help fund initiatives that generate impact for the ecosystem.
 
 <figure><img src="../../.gitbook/assets/web3-treasury-current-landscape.png" alt=""><figcaption></figcaption></figure>
 
 The founding entities in each Web3 ecosystem are often mostly responsible for the ongoing maintenance and development of the network itself. Moving above this responsibility the most common process for disbursement is idea based funding. This can often comes in the form of request for proposals (RFPs) that are suggested by the founding entities or in the form of an open proposal process where community members can suggest ideas for approval. For the open proposal process the deciding voters are often a founding entity that look after the treasury or they are the wider community if coin based voting is being used and governance decisions have started to move on-chain.
 
-For the most part idea based funding is usually targeted at building new protocols, software libraries and applications in the ecosystem as well as supporting ecosystem public goods initiatives that can help with maintaining and growing the ecosystem. Some ecosystems invite ideas that help with network & infrastructure development which would compete or compliment the founding entities efforts. Some ecosystems enable proposals that focus on global and location based public goods, these initiatives might not be as focussed on improving and growing the ecosystem itself.
+Web3 ecosystem idea based funding is often targeted at building new protocols, software libraries and applications in the ecosystem as well as supporting ecosystem initiatives that help with maintaining and growing the ecosystem. Some ecosystems invite ideas that help with network & infrastructure development which could compete or compliment the founding entities efforts. Some ecosystems invite proposals that focus on global and location based public goods, however these initiatives might not be relevant or focussed on improving and growing the ecosystem itself.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/web3-treasury-idea-funding.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+The most common proposal format for idea funding is where proposers document the execution goals of their project or idea and also list the contributors that will be involved in execution. Voters are usually either the founding entities or the community members, community member based voting is usually achieved with on-chain voting mechanisms. The processes most commonly used are either an open process where any community member can submit an idea to be considered by the voters and request for proposal processes where the types of ideas that will be considered are stated before proposal submission begins. In terms of incentives the processes usually either use budgeted contribution efforts where costs are stated fully ahead of time to execute some or all parts of an idea or these initiatives receive funding without a stated budget and instead funding is provided to help support the projects ongoing contribution efforts.
 
 
 
