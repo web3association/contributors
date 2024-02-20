@@ -12,7 +12,3 @@
 ## 🙋 Contributors
 
 * [Web3 Association](https://web3association.co)
-
-## Copy of Group 1
-
-* [Web3 Association](https://web3association.co)

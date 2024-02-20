@@ -193,4 +193,4 @@ The founding entities eventually want to give up the control and development of 
 
 A contributor disbursement process offers a simple approach for attracting and retaining high quality contributors in a Web3 ecosystem. This approach of paying contributors for their time is not novel and is already proven its effectiveness in existing corporate structures. Web3 ecosystems have the opportunity to improve upon this model further and create highly impactful disbursement processes that can help to support and grow Web3 ecosystems.
 
-<figure><img src="../../.gitbook/assets/web3-treasury-future-opportunity.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/web3-treasury-disbursement-opportunity.png" alt=""><figcaption></figcaption></figure>
