@@ -63,7 +63,7 @@ Funding comes from the treasury and goes directly to the selected contributors. 
 
 
 
-**Increased depth of experience and learning**
+**Increased depth of experience**
 
 Enabling contributors to work on the most impactful open source initiatives across an ecosystem can help with creating an environment where these contributors become very well informed about the different approaches that can be used to build applications and protocols. This exposure to many open source initiatives can also help with improving their awareness and understanding of what the biggest problems and opportunities are that could be resolved through improving existing solutions or by creating new tools or libraries.
 
