@@ -6,7 +6,7 @@ description: >-
 
 # Open source contributor funding
 
-<figure><img src="../../.gitbook/assets/web3-open-source-contributors-experiment.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/web3-open-source-contributor-funding.png" alt=""><figcaption></figcaption></figure>
 
 There is an opportunity for Web3 ecosystems to experiment with a open source contributors funding process. Ecosystem contributors would be selected and compensated to work on open source initiatives. The key parts for this suggested process include:
 
@@ -81,7 +81,7 @@ Most or all of the best parts of working in large tech company environment for e
 
 
 
-**Helps to reduce or resolve the common issues of why people leave large tech companies**
+**Helps reduce or resolve the common issues of why people leave large tech companies**
 
 * **Better work-life balance & burnout** - Incentives can help to encourage and reward contributors that work harder than others in the ecosystem but the actual choice of how much time a contributor is willing to use from their daily lives is fully up to them.
 * **Relocation** - A contributor working for an online Web3 ecosystem can work anywhere in the world they want, relocation should never be an issue!
@@ -191,4 +191,4 @@ The founding entities eventually want to give up the control and development of 
 
 A contributor disbursement process offers a simple approach for attracting and retaining high quality contributors in a Web3 ecosystem. This approach of paying contributors for their time is not novel and is already proven its effectiveness in existing company structures. Web3 ecosystems have the opportunity to improve upon this model further and create highly some impactful disbursement processes that are effective at supporting and growing Web3 ecosystems.
 
-<figure><img src="../../.gitbook/assets/web3-treasury-disbursement-opportunity.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/web3-treasury-funding-opportunity.png" alt=""><figcaption></figcaption></figure>
