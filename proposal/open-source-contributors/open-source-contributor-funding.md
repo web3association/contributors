@@ -191,7 +191,7 @@ The founding entities eventually want to give up the control and development of 
 
 
 
-**Contributor funding could become the most adopted Web3 disbursement process**
+**Contributor funding could become the most effective and most adopted Web3 funding process**
 
 An open source contributor funding process offers a simple approach for attracting and retaining high quality contributors in a Web3 ecosystem. This approach of paying contributors for their time is not novel and is already proven its effectiveness in existing company structures. Web3 ecosystems have the opportunity to improve upon this model and create highly effective funding processes for supporting and growing their ecosystem.
 
