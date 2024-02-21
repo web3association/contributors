@@ -107,7 +107,7 @@ Priorities and ideas will naturally change and evolve over time meaning the comp
 
 
 
-**Idea opinions and preferences can still be captured**
+**Idea feedback is still captured**
 
 Selecting contributors instead of ideas doesn’t mean the voters wouldn’t have their voices heard during idea generation and selection. Any process for generating and selecting ideas can be fully public and invite the entire community to offer their preferences and opinions. The key difference is that open source contributors would be the ones who have accountability to select the most promising ideas and respond to any community engagement and feedback. Contributors are paid for their contribution time so are incentivised to work on the most impactful ideas for the ecosystem otherwise they might not get selected again in the future.
 
