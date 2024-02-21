@@ -123,7 +123,7 @@ Assets being disbursed would be actively used to generate impact for the ecosyst
 
 
 
-**Environment for creating highly skilled contributors**
+**Environment helps create skilled contributors**
 
 Enabling contributors to work on the most impactful open source initiatives across the ecosystem will enable contributors to self identify and allocate their time to initiatives that can generate the most impact. This in itself is a skill set in being able to identify what is highest priority for the ecosystem. Contributors who are effective at proving they can identify and address important problems and opportunities can be compensated well for doing so. The amount of different areas that a contributor can help with can also help with creating an environment where contributors become very well informed on what the biggest problems and opportunities are in the ecosystem and how an application team could build out more technical and complex solutions using the current infrastructure and software available.
 
