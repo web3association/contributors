@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/web3-open-source-contributor-funding.png" alt=""><figcaption></figcaption></figure>
 
-There is an opportunity for Web3 ecosystems to experiment with a open source contributors funding process. Ecosystem contributors would be selected and compensated to work on open source initiatives.&#x20;
+There is an opportunity for Web3 ecosystems to experiment with a open source contributors funding process. Ecosystem contributors would be selected and compensated to work on open source initiatives. Founding entities currently often handle the network & infrastructure development in many Web3 ecosystems. A good starting opportunity for open source contributors is to become a supporting structure that sits above the founding entities. Contributors could be responsible for helping with the development of protocols and software libraries. Ecosystems could optionally encourage open source contributors to also help network & infrastructure development efforts or application development as well.
 
 
 
@@ -30,7 +30,7 @@ The following areas are important parts of making an open source contributor fun
 * **Voting** - Voters could either be a founding entity or the wider community depending on what voting tools the ecosystem has available and what their short term preference is.
 * **Compensation** - Contributors could request the amount of monthly compensation they are looking for. Voters would decide which contributor candidates they want to accept. Salary ranges could also be added as guidelines to indicate what is acceptable or suitable in terms of the minimum and maximum amount of compensation that can be requested.
 * **Contributor working arrangement** - Contributors would be paid for their time spent working in the ecosystem executing different open source initiatives. Contributors could be paid for a set term length, such as 3, 6 or 12 months. 6 months could be a suitable starting point.
-* **Contributor responsibilities** - Open source contributors would be responsible for supporting any open source initiatives that could create high impact for the ecosystem. That could range from bug fixes, improvements to existing software or entirely new tools and libraries. Founding entities often handle the network & infrastructure development in many Web3 ecosystems. An opportunity for open source contributors is to become a supporting structure that sits above the founding entities and is responsible for helping with the development of protocols and software libraries. Ecosystems could optionally encourage open source contributors to also help network & infrastructure development efforts or application development as well.
+* **Contributor responsibilities** - Open source contributors would be responsible for supporting the open source initiatives that are most likely to create high impact for the ecosystem. That could range from bug fixes, improvements to existing software or entirely new tools and libraries.
 
 
 
