@@ -8,14 +8,29 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/web3-open-source-contributor-funding.png" alt=""><figcaption></figcaption></figure>
 
-There is an opportunity for Web3 ecosystems to experiment with a open source contributors funding process. Ecosystem contributors would be selected and compensated to work on open source initiatives. The key parts for this suggested process include:
+There is an opportunity for Web3 ecosystems to experiment with a open source contributors funding process. Ecosystem contributors would be selected and compensated to work on open source initiatives.&#x20;
 
-* **Contributor information** - Open source developers would be able to submit their personal and professional information along with any of their contribution history information so they can then be considered as a contributor candidate.
-* **Voting** - The voters would either be a founding entity or the wider community depending on the ecosystems preferences and what voting systems are available.
-* **Compensation** - Contributors can request the salary they would be happy with for the period of time they would be contributing. Voters would decide which contributor proposals to accept. Salary ranges could be added as guidelines. Contributors could be paid monthly.
-* **Contributor working arrangement** - Contributors would be paid for their time spent working in the ecosystem to execute different open source initiatives. Contributors could be paid monthly for a set term length, such as 3, 6 or 12 months.
-* **Contributor responsibilities** - Open source contributors would be responsible for supporting any open source initiatives that could create high impact for the ecosystem. That could range from bug fixes, improvements to existing software or entirely new tools and libraries. Founding entities usually handle the network & infrastructure development in many Web3 ecosystems. An opportunity for open source contributors is to become a supporting structure that sits above the founding entities and is responsible for the development of protocols and software libraries. Ecosystems could optionally encourage open source contributors to also help network & infrastructure development efforts or application development as well.
-* **Contribution verification** - Contributors would submit monthly contribution logs that show evidence of the work they’ve completed that month. This would be required to be eligible to receive the next months funding.
+
+
+**Main suggested experiment approaches**
+
+The following approaches are some of the most important to incorporate into this suggested contributor funding process experiment.
+
+* **Time based incentives** - Contributors would be paid for their time whilst contributing to the ecosystem.
+* **Individual monthly contribution logs** - Contributors would submit monthly contribution logs that document the contributions they have made. Contributors would be required to submit these contribution logs to be eligible for payment in the next month.
+* **Autonomous decision making** - Contributors should have full autonomy to decide which open source initiatives they are going to work on based on what they believe is the most impactful for the ecosystem. Founding entities and community members can give their feedback and advice about what would be impactful to work on however the actual responsibility of deciding where they spend their time is left to the contributors.
+
+
+
+**Ecosystem specific experiment decisions**
+
+The following areas are important parts of making an open source contributor funding process. These areas could be executed in a number of different ways. The ecosystem would need to decide on how they want execute this funding process based on their own preferences and available tools and processes.
+
+* **Contributor information** - Open source contributors would share their personal and professional information along with any of their contribution history information to be considered as a contributor candidate.
+* **Voting** - Voters could either be a founding entity or the wider community depending on what voting tools the ecosystem has available and what their short term preference is.
+* **Compensation** - Contributors could request the amount of monthly compensation they are looking for. Voters would decide which contributor candidates they want to accept. Salary ranges could also be added as guidelines to indicate what is acceptable or suitable in terms of the minimum and maximum amount of compensation that can be requested.
+* **Contributor working arrangement** - Contributors would be paid for their time spent working in the ecosystem executing different open source initiatives. Contributors could be paid for a set term length, such as 3, 6 or 12 months. 6 months could be a suitable starting point.
+* **Contributor responsibilities** - Open source contributors would be responsible for supporting any open source initiatives that could create high impact for the ecosystem. That could range from bug fixes, improvements to existing software or entirely new tools and libraries. Founding entities often handle the network & infrastructure development in many Web3 ecosystems. An opportunity for open source contributors is to become a supporting structure that sits above the founding entities and is responsible for helping with the development of protocols and software libraries. Ecosystems could optionally encourage open source contributors to also help network & infrastructure development efforts or application development as well.
 
 
 
