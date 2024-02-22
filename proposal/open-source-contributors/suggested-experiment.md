@@ -36,4 +36,4 @@ The Web3 Association is looking to support and facilitate any of the experiments
 
 ## Education resources & content
 
-The Web3 Association intends to continue its efforts on making education resources that can offer insightful and actionable information to ecosystems that are building their own treasury solutions. Any research and analytical outcomes that emerge due to the open source contributor experiments will be added to the existing resources so that any learnings can be shared with the wider industry.
+The Web3 Association intends to continue its efforts on making educational resources that provide insightful and actionable information for ecosystems that are building their own treasury solutions. Any research and analytical outcomes that come out of the open source contributor funding experiments will be added to the existing resources so that any learnings are shared with the wider industry.
