@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/tech-company-examples-horizontal.png" alt=""><figcaption></figcaption></figure>
 
-A Comparison can be made between Web3 ecosystems and large tech companies. Large tech companies are a great case study for Web3 ecosystems due to a number of overlapping areas. Over the last few decades these tech companies have been some of the most desirable places to work on the planet. Partly due to ambitious global missions coupled with great incentives and employee benefits. Although these companies have not got everything right, some great learnings can be made by looking at what has worked well for the employees and for these companies.
+A comparison can be made between Web3 ecosystems and large tech companies. Large tech companies are a great case study for Web3 ecosystems due to a number of overlapping areas. Over the last few decades these tech companies have been some of the most desirable places to work on the planet. Partly due to ambitious global missions coupled with great incentives and employee benefits. Although these companies have not got everything right, some great learnings can be made by looking at what has worked well for the employees and for these companies.
 
 
 
