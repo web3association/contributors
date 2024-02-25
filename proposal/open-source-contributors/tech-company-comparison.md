@@ -1,4 +1,4 @@
-# Comparison with tech companies
+# Tech company comparison
 
 <figure><img src="../../.gitbook/assets/tech-company-examples-horizontal.png" alt=""><figcaption></figcaption></figure>
 
@@ -6,7 +6,7 @@ A comparison can be made between Web3 ecosystems and large tech companies. Large
 
 
 
-**Web3 ecosystem overlapping areas**
+**Web3 & tech company overlapping areas**
 
 Large tech companies can provide a number of useful learnings about growing a large ecosystem that has many full time contributors. Larger companies can share a number of overlapping areas with Web3 ecosystems:
 
@@ -18,7 +18,7 @@ Large tech companies can provide a number of useful learnings about growing a la
 
 
 
-**Large company working environment**
+**Tech company working environment**
 
 Other useful learnings that can be taken from existing tech companies are the environments they have created that can help their contributors focus and thrive whilst they work on important problems. Some of these environmental approaches include:
 
@@ -31,7 +31,7 @@ Other useful learnings that can be taken from existing tech companies are the en
 
 
 
-**Common reasons people leave large tech companies**
+**Common reasons people leave tech companies**
 
 The following are some example common reasons why people leave large companies. This can help with identifying which Web3 funding approaches might help with resolving or reducing these issues in the future.
 
@@ -47,7 +47,7 @@ The following are some example common reasons why people leave large companies. 
 
 
 
-**Large tech companies compared with current Web3 funding landscape**
+**Tech companies compared with current Web3 funding landscape**
 
 * **Less complexity to contribute** - A candidate employee would just need to submit their personal and professional information, usually in the form of a CV, to be considered. In Web3 ecosystems contributors need to define and suggest ideas ahead of time which takes a large amount of upfront work.
 * **Higher income stability** - Once hired a tech company employee doesn’t need to be concerned about how much income they are receiving each month, it’s pre-determined and agreed. For Web3 contributors they often need to budget ideas ahead of time and this can easily lead to becoming under or over paid due to differences in how long the idea actually takes to execute. They also have reduced stability due to the fact that their ideas they suggest might not be selected to receive funding meaning they may go through periods of receiving no income at all.

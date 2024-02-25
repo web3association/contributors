@@ -6,7 +6,7 @@
 
 * [Open source contributors](proposal/open-source-contributors/README.md)
   * [Current funding landscape](proposal/open-source-contributors/current-funding-landscape.md)
-  * [Comparison with tech companies](proposal/open-source-contributors/comparison-with-tech-companies.md)
+  * [Tech company comparison](proposal/open-source-contributors/tech-company-comparison.md)
   * [Open source contributor funding](proposal/open-source-contributors/open-source-contributor-funding.md)
   * [Suggested experiment](proposal/open-source-contributors/suggested-experiment.md)
 
