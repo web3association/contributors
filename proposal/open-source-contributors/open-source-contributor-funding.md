@@ -203,3 +203,15 @@ This suggested funding process has the opportunity to replace the founding entit
 Open source contributors have the potential to help with many different responsibilities. Supporting protocol and software library development is a great place to start however as this funding process matures there is a opportunity to expand the responsibilities to also include network & infrastructure development, application development and ecosystem initiatives. If this contributor funding process proves effective it could even become one of the most adopted and effective funding processes for Web3 ecosystems. The analysis so far helps to suggest that it also could be far more effective than many of the idea funding approaches that we see today.
 
 <figure><img src="../../.gitbook/assets/web3-treasury-funding-opportunity.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Summary
+
+An open source contributor funding process represents a highly promising funding approach for Web3 ecosystems. This funding process has a massive amount of potential to improve how treasuries disburse assets to more consistently generate impact for ecosystems at scale.
+
+For **contributors,** this suggestion provides a quick and simple approach for skilled contributors to participate and be considered as a contributor. It enables contributors to become autonomous actors in the ecosystem that have a simple mission to generate impact for the ecosystem. Contributors would benefit from increased income stability and simplicity due to their compensation being directly paid to them from the treasury. A contributor funding process could become evolution of the employment model where people are even more empowered by having more flexibility to generate impact for an ecosystem in a way that most suits their preferences and skill sets. Contributors would have more ownership and responsibility over their career trajectory and reputation that they build up whilst contributing to an ecosystem.
+
+For **voters,** this suggested contributor funding process could offer a far simpler and easier decision making process, making it easier for a larger number of community members to participate in treasury funding decisions. Contributor funding could become a far more scalable approach for disbursing treasury assets due to this simplicity.
+
+For **Web3 ecosystem**s, treasuries could become more effective at generating impact if assets are more efficiently and actively used to pay contributors directly and are not sitting idle in over funded ideas. Contributor funding could provide a reliable long term approach for developing open source initiatives that help to improve an ecosystems network, infrastructure, protocols, software libraries and applications. As this funding process matures there is an opportunity for creating a safe and reliable way for founding entities to push the stewardship of the ecosystem over to the community using this suggested contributor funding process.
