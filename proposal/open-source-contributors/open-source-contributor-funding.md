@@ -198,11 +198,7 @@ This suggested funding process has the opportunity to replace the founding entit
 
 
 
-## Summary
-
-
-
-**Contributor funding could become the most effective and most adopted Web3 funding process**
+## Future funding opportunity
 
 Open source contributors have the potential to help with many different responsibilities. Supporting protocol and software library development is a great place to start however as this funding process matures there is a opportunity to expand the responsibilities to also include network & infrastructure development, application development and ecosystem initiatives. If this contributor funding process proves effective it could even become one of the most adopted and effective funding processes for Web3 ecosystems. The analysis so far helps to suggest that it also could be far more effective than many of the idea funding approaches that we see today.
 
