@@ -6,6 +6,12 @@ description: >-
 
 # Current funding landscape
 
+{% embed url="https://youtu.be/ZWo9qNm3mvs" %}
+
+This page contains the same information that is covered in the above video
+
+***
+
 <figure><img src="../../.gitbook/assets/web3-current-funding-landscape.png" alt=""><figcaption></figcaption></figure>
 
 Many Web3 ecosystems have their own treasury which is used to help fund initiatives that generate impact for the ecosystem. Founding entities in each Web3 ecosystem are often responsible for the ongoing maintenance and development of the network itself. Moving above this responsibility the most common process for funding is idea based funding. This can often come in the form of requests for proposals (RFPs) that are suggested by the founding entities or an open proposal process is used where community members can suggest ideas for voter approval. For the open proposal process the deciding voters are often a founding entity that look after the treasury or they are the wider community if coin based voting is being used and governance decisions have started to move on-chain.
