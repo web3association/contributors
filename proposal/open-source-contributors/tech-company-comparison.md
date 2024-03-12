@@ -4,6 +4,12 @@ description: Funding comparison between tech companies and Web3 ecosystems
 
 # Tech company comparison
 
+{% embed url="https://www.youtube.com/watch?v=f3fP2bjf6rY" %}
+
+This page contains the same information that is covered in the above video
+
+***
+
 <figure><img src="../../.gitbook/assets/tech-company-examples-horizontal.png" alt=""><figcaption></figcaption></figure>
 
 Comparisons can be made between Web3 ecosystems and large tech companies. Large tech companies are a great case study for Web3 ecosystems due to a number of overlapping areas. Over the last few decades these tech companies have been some of the most desirable places to work on the planet. Partly due to ambitious global missions coupled with great incentives and employee benefits. Now these companies have obviously not got everything right, however some great learnings can be made by looking at what has worked well for the both employees and these companies. The comparison that we’re most interested in thinking about here is around the idea funding process that is commonly used in Web3 ecosystems and comparing this with the working environment and incentive structures that used with employees in tech companies.
