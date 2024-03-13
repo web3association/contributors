@@ -6,6 +6,12 @@ description: >-
 
 # Open source contributor funding
 
+{% embed url="https://www.youtube.com/watch?v=mQHqwHIDKMo" %}
+
+This page contains the same information that is covered in the above video
+
+***
+
 <figure><img src="../../.gitbook/assets/web3-open-source-contributor-funding.png" alt=""><figcaption></figcaption></figure>
 
 There is an opportunity for Web3 ecosystems to experiment with an open source contributors funding process. Contributors would be selected and compensated to work on open source initiatives. Founding entities currently often handle the core network & infrastructure development in most Web3 ecosystems. So, a great starting point for open source contributors could be to become a supporting structure that sits on top of the founding entities. This would mean that contributors would be responsible for helping with the development of protocols and software libraries. These contributors can help with improving the developer experience, the availability of protocols to integrate and the number of smart contract utility libraries as just a few examples. Ecosystems could also optionally encourage open source contributors to help with network & infrastructure development efforts or application development as well.
