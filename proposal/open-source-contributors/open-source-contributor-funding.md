@@ -6,7 +6,7 @@ description: >-
 
 # Open source contributor funding
 
-{% embed url="https://www.youtube.com/watch?v=mQHqwHIDKMo" %}
+{% embed url="https://youtu.be/NHKEMhQJ9d4" %}
 
 This page contains the same information that is covered in the above video
 
