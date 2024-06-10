@@ -16,6 +16,6 @@ description: A proposal for an open source contributors disbursement process
 [open-source-contributor-funding.md](open-source-contributor-funding.md)
 {% endcontent-ref %}
 
-{% content-ref url="suggested-experiment.md" %}
-[suggested-experiment.md](suggested-experiment.md)
+{% content-ref url="experimentation.md" %}
+[experimentation.md](experimentation.md)
 {% endcontent-ref %}
