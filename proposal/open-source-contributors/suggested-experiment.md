@@ -20,7 +20,7 @@ The founding entities could setup and manage a contributor funding process entir
 
 **Objectives**
 
-* To create more data points and evidence to demonstrate the potential effectiveness and efficiency of a contributor funding process. More experience and data points about how contributors behave and perform should help with informing the industry on what the potential issues, opportunities and nuances are for contributor funding.
+* To create more data points and evidence that can demonstrate the potential outcomes and realities of adopting a contributor funding process. More experience and data points about how contributors behave and perform under this model should help with informing the industry on what the potential issues and opportunities are for contributor funding.
 * To learn more about how contribution logs could be used and improved over time. There is an opportunity to experiment with individual monthly contribution logs. [Contribution verification](https://disbursement.treasuries.co/contributions/contribution-verification) and [individual monthly contribution logs](https://disbursement.treasuries.co/contributions/contribution-verification/individual-monthly-contribution-logs) have been covered in more detail in separate documentation.
 * To observe and analyse the differences between contributor and idea funding in more detail based on the emergent outcomes, data and case studies.
 
