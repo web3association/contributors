@@ -44,10 +44,10 @@ The following areas are important parts of making an open source contributor fun
 
 **Supporting rationale & analysis**
 
-The advantages of this suggested process are covered below. However to read more about the analysis and background behind this proposal it is worth reviewing the disbursement analysis:
+The advantages of this suggested process are covered below. However to read more about the analysis and background behind this proposal it is worth reviewing the funding analysis:
 
 {% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/" %}
-[Disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+[Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
 {% endcontent-ref %}
 
 
