@@ -8,11 +8,14 @@
   * [Current funding landscape](proposal/open-source-contributors/current-funding-landscape.md)
   * [Tech company comparison](proposal/open-source-contributors/tech-company-comparison.md)
   * [Open source contributor funding](proposal/open-source-contributors/open-source-contributor-funding.md)
-  * [Experimentation](proposal/open-source-contributors/suggested-experiment.md)
 
 ## Identity
 
 * [Contributor identity use cases](identity/contributor-identity-use-cases.md)
+
+## 🔗 Links
+
+* [Funding](https://funding.contributors.org)
 
 ## 🙋 Contributors
 
