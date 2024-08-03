@@ -8,7 +8,7 @@ description: >-
 
 {% embed url="https://youtu.be/NHKEMhQJ9d4" %}
 
-This page contains the same information that is covered in the above video
+This page covers similar information that is covered in the above video
 
 ***
 
@@ -18,36 +18,28 @@ There is an opportunity for Web3 ecosystems to experiment with an open source co
 
 
 
+**Funding process analysis**
 
-
-**Main suggested experiment approaches**
-
-The following approaches are some of the most important to incorporate into this suggested contributor funding process experiment.
-
-* **Time based incentives** - Contributors would be paid for their time whilst contributing to the ecosystem.
-* **Individual monthly contribution logs** - Contributions made in a recent month would be documented and provided as evidence to demonstrate recent contribution efforts. Contributors would be required to submit these contribution logs to be eligible for payment in the next month.
-* **Autonomous decision making** - Contributors should have full autonomy to decide on which open source initiatives they are going to work on based on what they believe will be the most impactful for the ecosystem. Founding entities and community members can give their feedback and advice about what would be impactful to work on, however the actual responsibility of deciding where they spend their time should be left to the contributors.
-
-
-
-**Ecosystem specific experiment decisions**
-
-The following areas are important parts of making an open source contributor funding process. These areas could be executed in a number of different ways. The ecosystem would need to decide on how they want operate this funding process based on their own preferences and available tools and processes.
-
-* **Contributor information** - Open source contributors would share their personal and professional information along with any of their contribution history information to be considered as a contributor candidate. Ecosystems could collect, store and present this information in whatever approach makes sense in the short term.
-* **Voting** - Voters could either be a founding entity or the wider community depending on what voting tools the ecosystem has available.
-* **Compensation** - Contributors could request the amount of monthly compensation they are looking for. Voters would decide which candidates they want to accept. Salary range guidelines could also be added to help indicate what is sensible in terms of the minimum and maximum amount of requested compensation.
-* **Contributor working arrangement** - Contributors would be paid for their time spent working in the ecosystem. The working arrangement could be that contributors are paid for a set term length after they are selected. These term lengths could be 3, 6 or 12 months. 6 months could be a suitable starting point.
-* **Contributor responsibilities** - Contributors would be responsible for supporting the open source initiatives that are most likely to create high impact for the ecosystem. That could range from bug fixes, improvements to existing software or entirely new tools and libraries. Ecosystems may optionally want to provide guidance on the types of initiatives that have already been developed and the ones that have been most widely requested so far.
-
-
-
-**Supporting rationale & analysis**
-
-The advantages of this suggested process are covered below. However to read more about the analysis and background behind this proposal it is worth reviewing the funding analysis:
+To read more about the analysis and background that supports this open source contributor funding proposal it is worth reviewing the following funding analysis:
 
 {% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/" %}
 [Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+{% endcontent-ref %}
+
+
+
+**Open source contributor funding experiment**
+
+Contributor funding resources have been created to outline how a contributor funding experiment could be setup, what the overall goal and objectives are for the experiment and what the development roadmap could look like:
+
+{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/MknWvDkc5shALcb0cpEH/" %}
+[Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/MknWvDkc5shALcb0cpEH/)
+{% endcontent-ref %}
+
+An example contributor funding process experiment resource can be found here for reference:
+
+{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZE8rIZvI1VylVcwzSPzR/" %}
+[Experiment Example](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZE8rIZvI1VylVcwzSPzR/)
 {% endcontent-ref %}
 
 
