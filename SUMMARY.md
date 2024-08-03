@@ -15,7 +15,7 @@
 
 ## 🔗 Links
 
-* [Funding](https://funding.contributors.org)
+* [Contributor Funding](https://funding.contributors.org)
 
 ## 🙋 Contributors
 
