@@ -19,4 +19,4 @@
 
 ## 🙋 Contributors
 
-* [Web3 Association](https://web3association.co)
+* [Web3 Association](https://web3association.io)
